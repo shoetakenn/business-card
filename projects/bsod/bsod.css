@@ -1,0 +1,43 @@
+body, .frown, .bsod-text, .percent, .info, .support, .code {
+    background-color: #047bd4;
+    color: #ffffff;
+    font-family:  Segoe UI;
+    font-weight: lighter;
+    font-weight: 300;
+}
+
+.frown {
+    font-size: 150px;
+    margin-left: 75px;
+    margin-top: 50px;
+    margin-bottom: -35px;
+    
+}
+
+.bsod-text, .percent {
+    font-weight: lighter;
+    font-size: 32px;
+    letter-spacing: 0.55px;
+    margin-left: 75px;
+}
+
+.qr-code {
+    margin-left: 75px;
+    width: 90px;
+    float: left;
+    margin-right: 15px;
+}
+
+.info {
+    font-weight: 100;
+    margin-top: -4px;
+    margin-bottom: 30px;
+}
+
+.support, .code {
+    font-size: 12px;
+}
+
+.support {
+    margin-bottom: -4px;
+}

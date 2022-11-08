@@ -1,0 +1,30 @@
+body {
+    margin: ;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 400;
+}
+
+h1, .description{
+    text-align: center;
+    min-width: 400px;
+}
+
+header {
+    background-color: aliceblue;
+    padding: 1px 0;
+    font-weight: 200;
+}
+
+p {
+    padding-left: 5px;
+}
+
+.projects {
+    display: flex;
+    justify-content: center;
+}
+
+
+.front-end-dev {
+    padding-left: 
+}
